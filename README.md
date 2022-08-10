@@ -3,9 +3,9 @@ An offline handwritten signature verification model built using twin Siamese Neu
 
 The following project uses twin Siamese Neural Networks to classify handwritten signature images are real/forged. The Siamese Network ensures that the system is writer-independent.
 
-TensorFlow verison : TensorFlow 1.x 
-Dataset used:
- CEDAR Signature Dataset
+TensorFlow verison : TensorFlow 1.x <br />
+Dataset used: <br />
+ CEDAR Signature Dataset<br />
  
 Contents: 
  Neural Network Model: Offline_Sign_model.h5
