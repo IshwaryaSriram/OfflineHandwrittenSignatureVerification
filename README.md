@@ -8,9 +8,9 @@ Dataset used:
  CEDAR Signature Dataset
  
 Contents: 
-Neural Network Model: Offline_Sign_model.h5
-Training the Model: SiameseNetwork (1).ipynb
-Testing the Model: SiameseNetworkTest (1).ipynb
+ Neural Network Model: Offline_Sign_model.h5
+ Training the Model: SiameseNetwork (1).ipynb
+ Testing the Model: SiameseNetworkTest (1).ipynb
 
 
 Detailed Documentation has also been uploaded for reference.
